@@ -1,0 +1,65 @@
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.exe
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.deps.json
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.json
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.dev.json
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csprojAssemblyReference.cache
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfo.cs
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\mpoly\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.genruntimeconfig.cache
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.exe
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.deps.json
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.json
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.dev.json
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csprojAssemblyReference.cache
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfo.cs
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\mpoly\source\repos\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.genruntimeconfig.cache
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.exe
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.deps.json
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.json
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.dev.json
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csprojAssemblyReference.cache
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfo.cs
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\mpoly\Desktop\Kalkulator12112\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.genruntimeconfig.cache
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.exe
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.deps.json
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.json
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.dev.json
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csprojAssemblyReference.cache
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfo.cs
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\mpoly\Desktop\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.genruntimeconfig.cache
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.exe
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.deps.json
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.json
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.dev.json
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csprojAssemblyReference.cache
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfo.cs
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\mpoly\Desktop\Proj c#\Kalkulator  Myroslav Poliakov 53661\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.genruntimeconfig.cache
